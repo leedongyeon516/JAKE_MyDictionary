@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/JAKE_MyDictionary/static/css/main.84ac6de0.chunk.css",
+    "main.css": "/JAKE_MyDictionary/static/css/main.980ecee7.chunk.css",
     "main.js": "/JAKE_MyDictionary/static/js/main.b512f8cf.chunk.js",
     "main.js.map": "/JAKE_MyDictionary/static/js/main.b512f8cf.chunk.js.map",
     "runtime-main.js": "/JAKE_MyDictionary/static/js/runtime-main.720fa6ca.js",
@@ -8,15 +8,15 @@
     "static/js/2.67b5a397.chunk.js": "/JAKE_MyDictionary/static/js/2.67b5a397.chunk.js",
     "static/js/2.67b5a397.chunk.js.map": "/JAKE_MyDictionary/static/js/2.67b5a397.chunk.js.map",
     "index.html": "/JAKE_MyDictionary/index.html",
-    "precache-manifest.3f98028a8f7db00c2fe558217d8ef21e.js": "/JAKE_MyDictionary/precache-manifest.3f98028a8f7db00c2fe558217d8ef21e.js",
+    "precache-manifest.15998550b65617723277035256dfdf8b.js": "/JAKE_MyDictionary/precache-manifest.15998550b65617723277035256dfdf8b.js",
     "service-worker.js": "/JAKE_MyDictionary/service-worker.js",
-    "static/css/main.84ac6de0.chunk.css.map": "/JAKE_MyDictionary/static/css/main.84ac6de0.chunk.css.map",
+    "static/css/main.980ecee7.chunk.css.map": "/JAKE_MyDictionary/static/css/main.980ecee7.chunk.css.map",
     "static/js/2.67b5a397.chunk.js.LICENSE.txt": "/JAKE_MyDictionary/static/js/2.67b5a397.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.720fa6ca.js",
     "static/js/2.67b5a397.chunk.js",
-    "static/css/main.84ac6de0.chunk.css",
+    "static/css/main.980ecee7.chunk.css",
     "static/js/main.b512f8cf.chunk.js"
   ]
 }
